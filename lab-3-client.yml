@@ -1,5 +1,7 @@
-word: Irish
-Rabbit's Foot: Serendipity
-word-config: 
-  preample: jword
-  word: Serendipity21 
+#word: Irish
+#Rabbit's Foot: Serendipity
+---
+word-config:
+  preamble: The word is2
+  word: Irish2
+  
